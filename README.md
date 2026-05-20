@@ -6,19 +6,11 @@
 
 <br/>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-FF4444?style=for-the-badge&logo=microsoft&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-0066CC?style=for-the-badge&logo=microsoft&logoColor=white)
-![Status](https://img.shields.io/badge/Status-✅%20Completed-brightgreen?style=for-the-badge)
-![Domain](https://img.shields.io/badge/Domain-🚗%20Automotive-red?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-FF4444?style=for-the-badge&logo=microsoft&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Power Query](https://img.shields.io/badge/Power%20Query-0066CC?style=for-the-badge&logo=microsoft&logoColor=white) ![Status](https://img.shields.io/badge/Status-✅%20Completed-brightgreen?style=for-the-badge) ![Domain](https://img.shields.io/badge/Domain-🚗%20Automotive-red?style=for-the-badge)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PatlaveetiJabeer786)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patlaveetijabeer786@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jabeer.lovable.app/)
-[![Dashboard](https://img.shields.io/badge/Live%20Dashboard-View%20Now-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/PatlaveetiJabeer786/Car-sales-Analysis-using-Power-BI)
+<a href="https://linkedin.com/in/PatlaveetiJabeer786" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:patlaveetijabeer786@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://jabeer.lovable.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> <a href="https://github.com/PatlaveetiJabeer786/Car-sales-Analysis-using-Power-BI" target="_blank"><img src="https://img.shields.io/badge/Live%20Dashboard-View%20Now-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
 
 </div>
 
@@ -210,14 +202,17 @@
 
 <br/>
 
-<div align="center">
+<div align="left" style="padding-left: 25%;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PatlaveetiJabeer786)
-[![Gmail](https://img.shields.io/badge/Gmail-Send%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patlaveetijabeer786@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jabeer.lovable.app/)
-[![Dashboard](https://img.shields.io/badge/Power%20BI-View%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/PatlaveetiJabeer786/Car-sales-Analysis-using-Power-BI)
+### 📧 **Email:** [patlaveetijabeer786@gmail.com](mailto:patlaveetijabeer786@gmail.com)
+### class="border-none" 💼 **LinkedIn:** [linkedin.com/in/PatlaveetiJabeer786](https://linkedin.com/in/PatlaveetiJabeer786)
+### 🌐 **Portfolio:** [jabeer.lovable.app](https://jabeer.lovable.app/)
+
+</div>
 
 <br/>
+
+<div align="center">
 
 ### ⭐ If this project added value to you — please drop a Star! ⭐
 
