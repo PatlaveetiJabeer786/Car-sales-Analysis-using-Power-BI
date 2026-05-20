@@ -1,228 +1,77 @@
+Day 10
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7C59F,100:0D1B2A&height=250&section=header&text=🚗%20Car%20Sales%20Analytics&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Power%20BI%20Business%20Intelligence%20Dashboard&descAlignY=58&descSize=22&descColor=fff"/>
+<img src="https://github.com/user-attachments/assets/68747470-733a-2f2f-6170-7365-6267-662f-4275-7369-6e65-73732d50-726f-626c-656d-2d42-616e-6e65-72" width="100%" alt="Car Sales Analytics Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=850&lines=🔥+Turning+Raw+Car+Sales+Data+into+Revenue+Insights;📊+YTD+%7C+PYTD+%7C+MTD+KPI+Tracking;🚗+Dealer+%7C+Region+%7C+Model+Performance+Analysis;💡+Data-Driven+Decisions+for+Automotive+Business" alt="Typing SVG" />
+<br />
 
-<br/>
+<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/DAX_FUNCTIONS-E60023?style=for-the-badge&logo=analytics&logoColor=white" /> <img src="https://img.shields.io/badge/POWER_QUERY-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/STATUS-COMPLETED-44CC11?style=for-the-badge" /> <img src="https://img.shields.io/badge/DOMAIN-AUTOMOTIVE-FF5733?style=for-the-badge" />
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-FF4444?style=for-the-badge&logo=microsoft&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-0066CC?style=for-the-badge&logo=microsoft&logoColor=white)
-![Status](https://img.shields.io/badge/Status-✅%20Completed-brightgreen?style=for-the-badge)
-![Domain](https://img.shields.io/badge/Domain-🚗%20Automotive-red?style=for-the-badge)
+<br /><br />
 
-<br/>
+<a href="https://linkedin.com/in/PatlaveetiJabeer786" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-555555?style=flat&logo=linkedin&logoColor=white" style="border:none; margin:0; padding:0;" /><img src="https://img.shields.io/badge/CONNECT-0077B5?style=flat&logo=linkedin&logoColor=white" style="border:none; margin:0; padding:0;" /></a> <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/M_GMAIL-555555?style=flat&logo=gmail&logoColor=white" style="border:none; margin:0; padding:0;" /><img src="https://img.shields.io/badge/CONTACT-D14836?style=flat&logo=gmail&logoColor=white" style="border:none; margin:0; padding:0;" /></a> <a href="https://jabeer.lovable.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-555555?style=flat&logo=googlechrome&logoColor=white" style="border:none; margin:0; padding:0;" /><img src="https://img.shields.io/badge/VISIT-FF5722?style=flat&logo=googlechrome&logoColor=white" style="border:none; margin:0; padding:0;" /></a> <a href="https://github.com/PatlaveetiJabeer786" target="_blank"><img src="https://img.shields.io/badge/LIVE_DASHBOARD-555555?style=flat&logo=powerbi&logoColor=white" style="border:none; margin:0; padding:0;" /><img src="https://img.shields.io/badge/VIEW_NOW-F2C811?style=flat&logo=powerbi&logoColor=black" style="border:none; margin:0; padding:0;" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-PROFILE)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-LINK.com)
-[![Dashboard](https://img.shields.io/badge/Live%20Dashboard-View%20Now-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/YOUR-DASHBOARD-LINK)
+<br /><br />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F2C811&width=500&lines=End-to-End+Car+Sales+Intelligence;Advanced+Time+Intelligence+DAX;Dynamic+Action+Filters+%26+Navigation" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e96c19,100:c0392b&height=70&text=🔴%20%20BUSINESS%20PROBLEM&fontSize=32&fontColor=fff&animation=fadeIn"/>
-</div>
-
-<br/>
+<br />
 
 <div align="center">
-
-> ### ❝ A leading Car Dealership was making million-dollar decisions based on **gut feeling**, not data. They had **zero visibility** into what was selling, where, and why. ❞
-
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20BUSINESS%20PROBLEM-CRITICAL-D14836?style=for-the-badge" height="45px" />
 </div>
 
-<br/>
+<br />
 
-<div align="center">
-
-| ❌ Problem | 💥 Business Impact |
-|:---|:---|
-| No real-time sales tracking | Revenue opportunities missed every single day |
-| No car model revenue breakdown | Wrong cars ordered, wrong inventory stocked |
-| No weekly or monthly trend view | Could not predict demand or plan ahead |
-| No YTD vs PYTD comparison | Growth or decline was completely invisible |
-| No regional dealer performance | Weak dealers went unnoticed and unsupported |
-| All decisions based on gut feeling | Wrong strategy, lost sales, lost competitive edge |
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:c0392b,100:e96c19&height=5"/>
-</div>
+> 📊 **The Blind Decision-Making Dilemma:** A fast-growing car dealership franchise was recording substantial daily sales data across multiple regions, manufacturers, and body configurations. However, their management team was making multi-million dollar operational and procurement choices based entirely on **gut feeling and static reports** instead of empirical intelligence. 
+> 
+> Without real-time visibility into Year-to-Date (YTD) loops, historical Month-to-Date (MTD) trends, or micro-level customer car preferences (color/body styles), the organization suffered from frequent inventory imbalances, mismatched regional pricing layouts, and untracked sales growth trajectories.
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=70&text=💼%20%20MY%20TASK%20%26%20APPROACH&fontSize=32&fontColor=FF6B35&animation=fadeIn"/>
-</div>
+## 🎯 Project Task & Objectives
 
-<br/>
+The primary objective was to engineer an end-to-end business intelligence engine in Power BI that ingests fragmented car sales records and processes them into a unified data model. The requirements were carefully split into two major analytical dashboards with smooth page navigation:
 
-<div align="center">
-
-> ### I was given raw messy car sales data and tasked to build a **complete Business Intelligence solution** that gives management **instant clarity** on every aspect of sales performance.
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| # | What I Did | Tool Used | Output |
-|:---:|:---|:---|:---|
-| 1️⃣ | Collected and cleaned raw sales data | Excel + Power Query | Clean structured dataset |
-| 2️⃣ | Built data model with relationships | Power BI | Star schema data model |
-| 3️⃣ | Created KPIs — YTD, PYTD, MTD, Growth % | DAX Formulas | Dynamic KPI cards |
-| 4️⃣ | Designed weekly sales trend analysis | Power BI Line Chart | Trend visibility |
-| 5️⃣ | Analysed car body style and color sales | Donut + Bar Charts | Top product insights |
-| 6️⃣ | Built dealer and region performance grid | Matrix Visual | Regional scorecard |
-| 7️⃣ | Delivered fully interactive dashboard | Power BI Desktop | Executive dashboard |
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:1a1a2e&height=5"/>
-</div>
+1. **Dashboard 1: Executive Sales Overview**
+   * Provide immediate visual access to core operational metrics (Total Revenue, Average Prices, Units Sold) enriched with dynamic Year-over-Year (YOY) performance comparisons.
+   * Visualize real-time trends over weekly intervals and drill into product attribute compositions (Car Color, Body Configuration, Regional distribution).
+2. **Dashboard 2: Granular Details Grid**
+   * Establish an interactive matrix reporting view showcasing comprehensive, transaction-level structures (Manufacturer specifications, customer name, date stamps, and dealership groupings) allowing export functionality for stakeholder utility.
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=70&text=📊%20%20RESULTS%20%26%20KPI%20METRICS&fontSize=32&fontColor=fff&animation=fadeIn"/>
-</div>
+## 🛠️ Data Architecture & DAX Implementation
 
-<br/>
+To preserve complex date structures and ensure hyper-accurate time intelligence mapping, the architecture utilizes a dedicated custom **Calendar Table** linked through a clean schema to core sales data.
 
-<div align="center">
-
-> ### The dashboard uncovered **$371M+ in tracked sales**, revealed **23.59% YTD growth**, and gave management a **single source of truth** for all sales decisions.
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 📌 KPI Metric | 🔢 YTD Value | 🔢 PYTD Value | 📈 Growth |
-|:---|:---:|:---:|:---:|
-| 💰 Total Sales Revenue | **$371.2 Million** | $333.8 Million | 🟢 **+23.59%** |
-| 🚗 Total Cars Sold | **13,261 Units** | 11,914 Units | 🟢 **+19.73%** |
-| 💵 Average Sale Price | **$28,000** | $27,990 | 🟡 **+0.79%** |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🔍 Insight | 🏆 Finding |
-|:---|:---|
-| 🚙 Top Selling Body Style | **SUV** generated the maximum revenue YTD |
-| 🎨 Most Popular Car Color | **Pale White** was the highest preferred color |
-| 📅 Best Sales Week | **Week 36** recorded the highest single-week sales spike |
-| 📍 Top Performing Region | **Austin** dealer region outperformed all other regions |
-| ⚙️ Preferred Transmission | **Manual** transmission cars outsold Automatic variants |
-| 📦 Fastest Growing Type | **Double Cab** body type showed the strongest growth |
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38ef7d,100:11998e&height=5"/>
-</div>
+### ⚡ Custom Comprehensive Measures Enacted:
+* **Year-to-Date (YTD) Revenue:** Calculates continuous cumulative revenue generated from the start of the current operating fiscal phase.
+* **Month-to-Date (MTD) Revenue:** Dynamic temporal tracking capturing latest month operational trajectories.
+* **Year-over-Year (YOY) Growth %:** Evaluates current performance relative to corresponding prior fiscal frames to isolate real growth velocity.
+* **Delta Multi-Cards:** Advanced consolidated KPI cards displaying current metrics, exact numerical change compared to the past baseline, and growth percentage simultaneously.
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:4a00e0&height=70&text=🚀%20%20HOW%20IT%20HELPED%20THE%20BUSINESS&fontSize=30&fontColor=fff&animation=fadeIn"/>
-</div>
+## 📊 Dashboard Visual Layout & Output Elements
 
-<br/>
+The interactive output was finalized using high-end UI/UX designs featuring dark themes, distinct border divisions, and clean visibility hierarchies:
 
-<div align="center">
-
-> ### This dashboard **transformed** how the dealership operates — from blind guesswork to **real-time, data-driven decision making** at every level.
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| ✅ Impact Area | 😟 Before Dashboard | 🚀 After Dashboard |
-|:---|:---|:---|
-| ⚡ Decision Speed | Reports took days to prepare manually | Live insights available in seconds |
-| 💰 Revenue Focus | Unknown which models drove revenue | Top models identified, inventory optimised |
-| 🗺️ Regional Control | No dealer performance tracking at all | Weak dealers identified and given support |
-| 📈 Trend Forecasting | Zero prediction capability | Weekly trends used to forecast next month |
-| 📦 Inventory Management | Random stock ordering, frequent mismatch | Color and body data drives smart ordering |
-| 🎯 Sales Strategy | Gut-feeling decisions, inconsistent targets | 100% data-driven strategy across all regions |
-| 🏆 Competitive Edge | Reactive — always behind the market | Proactive — always ahead with data |
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4a00e0,100:8e2de2&height=5"/>
-</div>
+* **Weekly Sales Trends:** A smooth linear visualization charting weekly revenue fluctuations to identify peak transactional cycles.
+* **Preference Breakdowns:** High-contrast pie/donut structural slices tracking performance by **Car Body Style** (SUV, Sedan, Hatchback) and **Car Color** (Pale White, etc.).
+* **Geographical Distribution:** Deep geospatial mapping pinning sales density across distinct regional boundaries.
+* **Detailed Grid View:** Transaction-level matrix containing tabular sorting filters, conditional formatting data bars for performance thresholds, and quick-export capability.
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,100:F2C811&height=70&text=🖥️%20%20DASHBOARD%20PREVIEW&fontSize=32&fontColor=fff&animation=fadeIn"/>
-</div>
+## 📈 Executive Impact & Business Value Delivered
 
-<br/>
+Deploying this interactive dashboard shifted the car dealership's operational baseline from reactive survival to predictive scaling:
 
-<div align="center">
-
-| 📋 Overview Page | 📈 Details Page |
-|:---:|:---:|
-| ![Overview](screenshots/overview.png) | ![Details](screenshots/details.png) |
-
-<br/>
-
-[![View Live Dashboard](https://img.shields.io/badge/👆%20Click%20Here%20to%20View%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/YOUR-DASHBOARD-LINK)
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F2C811,100:FF6B35&height=5"/>
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,100:1a1a2e&height=70&text=🤝%20%20LET'S%20CONNECT&fontSize=32&fontColor=fff&animation=fadeIn"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-PROFILE)
-[![Gmail](https://img.shields.io/badge/Gmail-Send%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-LINK.com)
-[![Dashboard](https://img.shields.io/badge/Power%20BI-View%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/YOUR-DASHBOARD-LINK)
-
-<br/>
-
-### ⭐ If this project added value to you — please drop a Star! ⭐
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:8e2de2,100:11998e&height=150&section=footer&text=Built%20with%20❤️%20by%20Jabeer&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65"/>
-
-</div>
+* **Procurement Optimization:** By revealing exactly which body styles and colors are leading sales in distinct dealer regions, the procurement team successfully realigned inventory purchases, dropping vehicle floor days and reducing capital holding costs.
+* **Preserving Margin Health:** Executives can instantly view changes in average unit pricing via the YTD/MTD multi-cards. If average unit values dip significantly under-target in specific manufacturing lines, pricing corrections can be deployed immediately before margins contract.
+* **Regional Resource Allocation:** High-resolution map visualizations isolated geographic sales clusters, allowing marketing teams to re-budget advertising capital towards under-performing markets while stocking high-performing hub lines accordingly.
