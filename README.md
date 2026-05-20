@@ -280,7 +280,7 @@ Car-Sales-Analysis-Project/
 
 ## 🚀 How to Run This Project
 
-1. **Download Power BI Desktop** — free from [microsoft.com/powerbi](https://powerbi.microsoft.com/downloads/)
+1. **Download Power BI Desktop** — free from [microsoft.com/powerbi](https://github.com/PatlaveetiJabeer786/Car-sales-Analysis-using-Power-BI/blob/main/Car_Sales_power_Bi_Project.pbix)
 
 2. **Clone or download** this repository to your local machine
 
