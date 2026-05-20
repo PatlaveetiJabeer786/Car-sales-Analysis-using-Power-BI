@@ -64,7 +64,7 @@ I was given the raw car sales dataset and tasked with building a complete BI sol
 ![Car Sales Overview](https://github.com/PatlaveetiJabeer786/Car-sales-Analysis-using-Power-BI/blob/main/Car_sales_dashboard_1.png)
 
 ### 🟢 Page 2 — Detailed Sales Grid
-![Car Sales Details](images/car_sales_details.png)
+![Car Sales Details](https://github.com/PatlaveetiJabeer786/Car-sales-Analysis-using-Power-BI/blob/main/Car_sales_dashboard_2.png)
 
 ---
 
