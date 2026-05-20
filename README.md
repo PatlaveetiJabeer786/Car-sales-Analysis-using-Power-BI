@@ -13,6 +13,13 @@
 ![Status](https://img.shields.io/badge/Status-✅%20Completed-brightgreen?style=for-the-badge)
 ![Domain](https://img.shields.io/badge/Domain-🚗%20Automotive-red?style=for-the-badge)
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-PROFILE)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-LINK.com)
+[![Dashboard](https://img.shields.io/badge/Live%20Dashboard-View%20Now-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/YOUR-DASHBOARD-LINK)
+
 </div>
 
 ---
@@ -172,5 +179,50 @@
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,100:F2C811&height=70&text=🖥️%20%20DASHBOARD%20PREVIEW&fontSize=32&fontColor=fff&animation=fadeIn"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+| 📋 Overview Page | 📈 Details Page |
+|:---:|:---:|
+| ![Overview](screenshots/overview.png) | ![Details](screenshots/details.png) |
+
+<br/>
+
+[![View Live Dashboard](https://img.shields.io/badge/👆%20Click%20Here%20to%20View%20Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/YOUR-DASHBOARD-LINK)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F2C811,100:FF6B35&height=5"/>
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1B2A,100:1a1a2e&height=70&text=🤝%20%20LET'S%20CONNECT&fontSize=32&fontColor=fff&animation=fadeIn"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-PROFILE)
+[![Gmail](https://img.shields.io/badge/Gmail-Send%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-LINK.com)
+[![Dashboard](https://img.shields.io/badge/Power%20BI-View%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/YOUR-DASHBOARD-LINK)
+
+<br/>
+
+### ⭐ If this project added value to you — please drop a Star! ⭐
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:8e2de2,100:11998e&height=150&section=footer&text=Built%20with%20❤️%20by%20Jabeer&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+
 </div>
