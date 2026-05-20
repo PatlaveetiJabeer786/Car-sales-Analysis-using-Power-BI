@@ -1,6 +1,3 @@
-Here is your complete README.md in one single code block:
-
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7C59F,100:0D1B2A&height=250&section=header&text=🚗%20Car%20Sales%20Analytics&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Power%20BI%20Business%20Intelligence%20Dashboard&descAlignY=58&descSize=22&descColor=fff"/>
@@ -177,4 +174,3 @@ Here is your complete README.md in one single code block:
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:8e2de2,100:11998e&height=150&section=footer&text=Built%20with%20❤️%20by%20Jabeer&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 </div>
-```
